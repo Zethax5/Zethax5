@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zethax5
 - I’m interested in anything related to computers, especially game design.
-- I’m currently learning lower level programming languages like C, C++, etc.. No more Java for me!
+- Currently in college taking general education.
 - If you're looking to collaborate, email me at agentsilverredacted@gmail.com
 
 <!---
